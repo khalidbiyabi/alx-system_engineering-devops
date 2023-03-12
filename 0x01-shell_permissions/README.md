@@ -7,3 +7,5 @@ Script that prints all the groups the current user is part of : comamnd is is -G
 Script that changes the owner of the file hello to the user betty : command is chown new_owner file_name
 
 Script that creates an empty file called hello : command is touch file_name
+
+Script that adds execute permission to the owner of the file hello : command is chmod u+x
