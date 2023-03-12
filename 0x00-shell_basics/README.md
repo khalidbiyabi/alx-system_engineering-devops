@@ -30,3 +30,5 @@ Script that copies all the HTML files from the current working directory to the 
 
 Script that moves all files beginning with an uppercase letter to the directory /tmp/u : command is mv [[:upper:]]* dest
 
+Script that deletes all files in the current working directory that end with the character ~ : command is rm *~
+
