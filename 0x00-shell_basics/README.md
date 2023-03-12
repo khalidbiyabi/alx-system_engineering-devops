@@ -8,3 +8,5 @@ Script that displays the current directory contents in a long format : command i
 
 Script that displays the current directory contents, including hidden files : command is ls -al
 
+Script that displays the current directory contents : command is ls -al
+
