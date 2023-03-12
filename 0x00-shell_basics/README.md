@@ -26,3 +26,5 @@ Script that prints the type of the file named iamafile. The file iamafile will b
 
 Script that creates a symbolic link to /bin/ls, named __ls__
 
+Script that copies all the HTML files from the current working directory to the parent of the working directory : command is cp -u
+
