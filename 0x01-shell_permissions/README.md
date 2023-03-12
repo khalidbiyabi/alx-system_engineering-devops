@@ -10,9 +10,9 @@ Script that creates an empty file called hello : command is touch file_name
 
 Script that adds execute permission to the owner of the file hello : command is chmod u+x file_name
 
-Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello : command is chmod ug+x,o+r file_name
+Script that adds execute permission to owner, group owner and read permission to other users to hello : command is chmod ug+x,o+r file_name
 
-Script that adds execution permission to the owner, the group owner and the other users, to the file hello : command is chmod ugo+x file_name
+Script that adds execution permission to owner, group owner and other users to hello : command is chmod ugo+x file_name
 
 Script that sets the permission to the file hello Owner: no P, Group: no P & Other users: all the permissions : command is 007 file_name
 
