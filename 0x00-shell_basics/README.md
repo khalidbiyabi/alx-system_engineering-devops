@@ -36,3 +36,5 @@ Script that creates the directories welcome/, welcome/to/ and welcome/to/school 
 
 Script with a command that lists all the files and directories of the current directory, separated by commas : command is ls -xamp
 
+Script with a magic file school.mgc that can be used with the command file to detect School data files : command is !:mime DATA_TYPE
+
