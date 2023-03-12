@@ -24,3 +24,5 @@ Script that lists all files in the current directory, the parent of the working 
 
 Script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory : command is file file_name
 
+Script that creates a symbolic link to /bin/ls, named __ls__
+
