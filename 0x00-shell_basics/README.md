@@ -10,3 +10,5 @@ Script that displays the current directory contents, including hidden files : co
 
 Script that displays the current directory contents : command is ls -al
 
+Script that creates a directory named my_first_directory in the tmp directory : command is mkdir name_of_dir
+
