@@ -18,5 +18,5 @@ Script that deletes the file betty from specific location  : command is rm file
 
 Script that deletes the directory my_first_directory that is in the /tmp directory : command is rm -rf dir_to_delete
 
-Script that changes the working directory to the previous one : command is cd ..
+Script that changes the working directory to the previous one : command is cd -
 
