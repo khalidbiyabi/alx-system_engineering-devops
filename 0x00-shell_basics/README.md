@@ -6,3 +6,5 @@ Script that changes the working directory to the user’s home directory : comma
 
 Script that displays the current directory contents in a long format : command is ls -l
 
+Script that displays the current directory contents, including hidden files : command is ls -al
+
