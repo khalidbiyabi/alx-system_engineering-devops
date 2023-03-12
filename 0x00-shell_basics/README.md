@@ -20,3 +20,5 @@ Script that deletes the directory my_first_directory that is in the /tmp directo
 
 Script that changes the working directory to the previous one : command is cd -
 
+Script that lists all files in the current directory, the parent of the working directory and the /boot directory, in long format : command is ls -al . .. /boot
+
