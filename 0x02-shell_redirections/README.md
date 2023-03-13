@@ -6,4 +6,4 @@ Script that displays the content of the /etc/passwd file
 
 Script that displays the content of /etc/passwd and /etc/hosts files
 
-
+Script that displays the last 10 lines of /etc/passwd file
