@@ -43,3 +43,7 @@ Script that removes all letters c and C from input
 Script that reverses its input
 
 Script that displays all users and their home directories, sorted by users
+
+Script that finds all empty files and directories in the current directory and all sub-directories
+
+
