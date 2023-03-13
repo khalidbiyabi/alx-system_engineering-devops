@@ -12,4 +12,5 @@ Script that displays the first 10 lines of /etc/passwd file
 
 Script that displays the third line of the file iacta
 
+Script that creates a file named exactly file_nmae containing the text Best School ending by a new line
 
