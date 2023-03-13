@@ -22,4 +22,6 @@ Script that deletes all the regular files (not the directories) with a .js exten
 
 Script that counts the number of directories and sub-directories in the current directory
 
+Script that displays the 10 newest files in the current directory
+
 
