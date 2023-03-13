@@ -40,4 +40,6 @@ Script that replaces all characters A and c from input to Z and e respectively
 
 Script that removes all letters c and C from input
 
+Script that reverses its input
+
 
