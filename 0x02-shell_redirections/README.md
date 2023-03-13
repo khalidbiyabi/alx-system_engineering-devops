@@ -38,4 +38,6 @@ Script that displayes all lines of the file /etc/ssh/sshd_config starting with a
 
 Script that replaces all characters A and c from input to Z and e respectively
 
+Script that removes all letters c and C from input
+
 
