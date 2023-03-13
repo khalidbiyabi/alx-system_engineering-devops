@@ -36,4 +36,6 @@ Script that displayes all the lines in the file /etc/passwd that do not contain 
 
 Script that displayes all lines of the file /etc/ssh/sshd_config starting with a letter
 
+Script that replaces all characters A and c from input to Z and e respectively
+
 
