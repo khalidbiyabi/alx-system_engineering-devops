@@ -20,4 +20,6 @@ Script that duplicates the last line of the file_name
 
 Script that deletes all the regular files (not the directories) with a .js extension
 
+Script that counts the number of directories and sub-directories in the current directory
+
 
