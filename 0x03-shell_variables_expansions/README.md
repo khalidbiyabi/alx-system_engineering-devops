@@ -6,4 +6,6 @@ Script that adds /action to PATH using export command
 
 Script that counts  the number of directories in the PATH
 
+Script that lists environment variables
+
 
