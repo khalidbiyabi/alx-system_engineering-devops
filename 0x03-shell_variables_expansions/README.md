@@ -12,4 +12,6 @@ Script that lists all local variables and environment variables, and functions
 
 Script that creates local variable
 
+Script that creates global variable
+
 
