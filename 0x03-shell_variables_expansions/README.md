@@ -26,4 +26,6 @@ Script that prints all possible combinations of two letters, except oo
 
 Script that prints a number with two decimal places, followed by a new line
 
+Script that converts a number from base 10 to base 16
+
 
